@@ -5,8 +5,8 @@
     ## Preview
 
     Preview URL: https://jiongjiongli.github.io/gemini_image_chatbot/
+    ![image](https://github.com/jiongjiongli/gemini_image_chatbot/assets/33146359/eb24cf57-ad12-4e47-9b37-a5d79f1fcf2c)
 
-    
 
 
     ## Usage
