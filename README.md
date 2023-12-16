@@ -1,8 +1,19 @@
-# React + Vite
+- # Gemini Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    A  Google Gemini chatbot website supporting multi-turn conversations with text and image input. Deveoped with Vite + React.
 
-Currently, two official plugins are available:
+    ## Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    Preview URL: https://jiongjiongli.github.io/gemini_image_chatbot/
+
+    
+
+
+    ## Usage
+
+    1. Input Gemni API Key generated from [Google](https://makersuite.google.com/app/apikey).
+    2. Start talking to Gemini!
+
+    ## Safety
+
+    This website is safe to use to use because it only runs on client side - your computer and would not communicate with the server.
